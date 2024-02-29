@@ -18,3 +18,4 @@ double product3 = i1 * d1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+Console.WriteLine("Hello form Ubuntu and Visual Studio Code");
